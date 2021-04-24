@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-NOMADS
+NOMADS NURA
 @endsection
 
 @section('content')
